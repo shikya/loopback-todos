@@ -5,6 +5,19 @@ Practice for loopback with mongo and auth
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
 [initial project layout](https://loopback.io/doc/en/lb4/Loopback-application-layout.html).
 
+## TODOs
+
+- [ ] Add Todos model
+- [ ] Add CRUD for todos
+- [ ] Add Admin model
+- [ ] Add Admin role to read all todos
+- [ ] Add User model
+- [ ] Add User role to CRUD his todos
+- [ ] Add UI for signup and login
+- [ ] Add UI for User's Todos CRUD
+- [ ] Add sharing permission accross project
+- [ ] Add Admin interface to monitor all the todos
+
 ## Install dependencies
 
 By default, dependencies were installed when this application was generated.
